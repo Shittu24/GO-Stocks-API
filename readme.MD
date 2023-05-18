@@ -7,9 +7,9 @@ This is a simple stocks API built with Go and postgres database where users can 
 ##### Do the stuff below to initialize your project
 
 1. Clone the repository
-   `git clone https://github.com/Shittu24/go-jwt-auth.git`
+   `git clone https://github.com/Shittu24/GO-Stocks-APIt`
 2. Change the directory
-   `cd go-jwt-auth`
+   `cd GO-Stocks-API`
 3. Get all the dependencies
    `go mod tidy`
 4. Run your project
